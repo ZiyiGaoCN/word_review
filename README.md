@@ -9,7 +9,16 @@ conda env create -f env.yml
 ```
 
 ## 使用
-将单词本放在根目录的```wordtable.txt```里，执行
+
+### 获取词典
+将单词本放在根目录的```wordtable.txt```里
+将词典放在/word_app/utils/ECDICT目录下，词典可在```https://cloud.tsinghua.edu.cn/f/bb1dfaf0db24432da312/?dl=1```处下载
+```
+
+```
+
+
+### 执行
 ```
 python graphic.py
 ```
