@@ -23,6 +23,7 @@ conda env create -f env.yml
 ```
 python graphic.py
 ```
+在```Review```模式内，程序会随机从单词本中抽取词汇，并且给出该词汇的中文，你需要在框内输入该词汇。
 
 ### 输出
-输出在```output```文件夹内
+如果选择```Generate a xxx wordnote```，程序会在```output```文件夹内自动生成生词本。
